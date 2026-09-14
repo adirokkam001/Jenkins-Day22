@@ -1,4 +1,4 @@
-# 19. Jenkins ⭐⭐⭐⭐
+# Jenkins 
 
 Jenkins is still useful for **interviews and enterprise environments**.
 
